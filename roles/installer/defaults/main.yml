@@ -427,7 +427,7 @@ security_context_settings: {}
 postgres_security_context_settings: {}
 
 # Set no_log settings on certain tasks
-no_log: true
+no_log: false
 
 # Should AWX instances be automatically upgraded when operator gets upgraded
 #
